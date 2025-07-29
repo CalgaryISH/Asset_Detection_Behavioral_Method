@@ -27,7 +27,8 @@ The script will prompt:
 
 ### ✅ Step 3: Submit the Path
 
-Paste the directory path and hit `Enter`.
+Paste an IP or File directory path and hit `Enter`.
+(I have uploaded an example IP for testing; in this case, I used the example IP directory. You can use your own.)
 
 ![Step 3: Paste path and hit enter](images/3.JPG)
 
