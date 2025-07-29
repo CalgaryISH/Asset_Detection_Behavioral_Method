@@ -1,0 +1,25 @@
+Filename,Asset,width,Signal_type,Appeared in,CIA
+aes_cipher_top.v,ld,1,Control,if_else,A
+aes_cipher_top.v,done,1,status,assignment(lhs),I
+aes_cipher_top.v,key,128,data,input,C
+aes_cipher_top.v,text_in,128,data,input,C
+aes_cipher_top.v,text_out,128,data,output,C
+aes_inv_cipher_top.v,kld,1,Control,if_else,A
+aes_inv_cipher_top.v,ld,1,Control,if_else,A
+aes_inv_cipher_top.v,done,1,status,assignment(lhs),I
+aes_inv_cipher_top.v,key,128,data,input,C
+aes_inv_cipher_top.v,text_in,128,data,input,C
+aes_inv_cipher_top.v,text_out,128,data,output,C
+aes_inv_sbox.v,a,8,Config,case,IA
+aes_inv_sbox.v,a,8,data,input,C
+aes_inv_sbox.v,d,8,data,output,C
+aes_key_expand_128.v,key,128,data,input,C
+aes_key_expand_128.v,wo_0,32,data,output,C
+aes_key_expand_128.v,wo_1,32,data,output,C
+aes_key_expand_128.v,wo_2,32,data,output,C
+aes_key_expand_128.v,wo_3,32,data,output,C
+aes_rcon.v,kld,1,Control,if_else,A
+aes_rcon.v,out,32,data,output,C
+aes_sbox.v,a,8,Config,case,IA
+aes_sbox.v,a,8,data,input,C
+aes_sbox.v,d,8,data,output,C
