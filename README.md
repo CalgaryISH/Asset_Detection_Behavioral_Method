@@ -65,6 +65,9 @@ The CSV contains the following columns:
 | `Appeared_in`  | Part or block where the asset appears                |
 | `CIA`          | Security tag: Confidentiality, Integrity, Availability |
 
+
+Generated csv file for the Test IP:
+
 ![Step 7: CSV content](images/7.JPG)
 
 
